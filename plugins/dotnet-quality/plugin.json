@@ -1,0 +1,6 @@
+{
+  "name": "dotnet-quality",
+  "version": "0.1.0",
+  "description": "Skills for auditing the quality of existing .NET code: semantic duplicate detection.",
+  "skills": ["./skills/"]
+}
